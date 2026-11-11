@@ -32,6 +32,30 @@ A feature-rich Android application designed to help users manage, track, and ana
 - `AddExpenseActivity.kt` – Add and save expense records.
 - `res/layout/` – Application UI layouts.
 
+## Screenshots
+
+### 1. Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### 2. Add Expense
+![Add Expense](screenshots/Add%20Expense.png)
+
+### 3. Analytics
+![Analytics](screenshots/Analytics.png)
+
+### 4. Receipt Scanner
+![Receipt Scanner](screenshots/Receipt%20Scanner.png)
+
+### 5. Transactions
+![Transactions](screenshots/Transactions.png)
+
+### 6. Export as Excel
+![Export as Excel Sample](screenshots/Export%20as%20Excel%20Sample.png)
+
+### 7. Export as PDF
+![Export as PDF Sample](screenshots/Export%20as%20PDF%20Sample.png)
+
+
 ## Installation
 
 1. Clone this repository.
