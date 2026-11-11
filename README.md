@@ -32,28 +32,29 @@ A feature-rich Android application designed to help users manage, track, and ana
 - `AddExpenseActivity.kt` – Add and save expense records.
 - `res/layout/` – Application UI layouts.
 
+
 ## Screenshots
 
 ### 1. Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](https://github.com/Kirtisharma123/Smart-Expense-Tracker-Android/blob/main/Dashboard.jpeg)
 
 ### 2. Add Expense
-![Add Expense](screenshots/Add%20Expense.png)
+![Add Expense](https://github.com/Kirtisharma123/Smart-Expense-Tracker-Android/blob/main/Add%20Expense.jpeg)
 
 ### 3. Analytics
-![Analytics](screenshots/Analytics.png)
+![Analytics](https://github.com/Kirtisharma123/Smart-Expense-Tracker-Android/blob/main/Analytics.jpeg)
 
 ### 4. Receipt Scanner
-![Receipt Scanner](screenshots/Receipt%20Scanner.png)
+![Receipt Scanner](https://github.com/Kirtisharma123/Smart-Expense-Tracker-Android/blob/main/Receipt%20Scanner.jpeg)
 
 ### 5. Transactions
-![Transactions](screenshots/Transactions.png)
+![Transactions](https://github.com/Kirtisharma123/Smart-Expense-Tracker-Android/blob/main/Transactions.jpeg)
 
 ### 6. Export as Excel
-![Export as Excel Sample](screenshots/Export%20as%20Excel%20Sample.png)
+![Export as Excel Sample](https://github.com/Kirtisharma123/Smart-Expense-Tracker-Android/blob/main/Export%20as%20excel%20sample.jpeg)
 
 ### 7. Export as PDF
-![Export as PDF Sample](screenshots/Export%20as%20PDF%20Sample.png)
+![Export as PDF Sample](https://github.com/Kirtisharma123/Smart-Expense-Tracker-Android/blob/main/Export%20pdf%20sample.jpeg)
 
 
 ## Installation
